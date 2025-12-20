@@ -1,0 +1,203 @@
+{
+  "users": [
+    {
+      "id": "9b16",
+      "name": "Soubhagya",
+      "email": "soubhagya@gmail.com",
+      "phone": "7735249873",
+      "password": "Pintu1234@",
+      "confirmPassword": "Pintu1234@",
+      "terms": true,
+      "profileImage": {}
+    },
+    {
+      "id": "394e",
+      "name": "Pintu",
+      "email": "rout@gmai.com",
+      "phone": "",
+      "password": "pin",
+      "confirmPassword": "pin",
+      "terms": false,
+      "profileImage": null
+    },
+    {
+      "id": "7d6d",
+      "name": "Prabir",
+      "email": "prabir@gmail.com",
+      "phone": "8455813717",
+      "password": "Pintu1234@",
+      "profileImage": "https://res.cloudinary.com/dgqvkksup/image/upload/v1766035077/zltzrbyujgz1ukrzgjcp.jpg"
+    },
+    {
+      "id": "6111",
+      "name": "Prabir",
+      "email": "prabir@gmail.com",
+      "phone": "8455813717",
+      "password": "Pintu1234@",
+      "profileImage": "https://res.cloudinary.com/dgqvkksup/image/upload/v1766035078/mkkuknxnypychbnsvogq.jpg"
+    },
+    {
+      "id": "f7ef",
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "phone": "",
+      "password": "Pintu1234@",
+      "profileImage": "https://res.cloudinary.com/dgqvkksup/image/upload/v1766152373/zccawn03uvzu2vpbbfnr.jpg"
+    },
+    {
+      "id": "d3a6",
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "phone": "",
+      "password": "Pintu1234@",
+      "profileImage": "https://res.cloudinary.com/dgqvkksup/image/upload/v1766152374/zsicnxl03j8qnnjgqlly.jpg"
+    },
+    {
+      "id": "b798",
+      "name": "amitb",
+      "email": "asdf@gmail.com",
+      "phone": "",
+      "password": "Pintu1234@",
+      "profileImage": "https://res.cloudinary.com/dgqvkksup/image/upload/v1766155077/xt6ibhjso5ijonozp1s3.jpg"
+    }
+  ],
+  "todos": [
+    {
+      "id": "6f7f",
+      "user_email": "rout@gmail.com",
+      "tasks": [
+        {
+          "id": "t01",
+          "title": "Review final project proposal",
+          "completed": false,
+          "description": "Check formatting + client feedback",
+          "due_date": "2025-12-07",
+          "priority": "high",
+          "reminder": true
+        },
+        {
+          "id": "t02",
+          "title": "Send invoice to client",
+          "completed": false,
+          "description": "",
+          "due_date": "2025-12-07",
+          "priority": "medium",
+          "reminder": false
+        },
+        {
+          "id": "t03",
+          "title": "Prepare for team meeting",
+          "completed": true,
+          "description": "Slides already prepared",
+          "due_date": "2025-12-07",
+          "priority": "low",
+          "reminder": false
+        },
+        {
+          "id": "t04",
+          "title": "Book flight for conference",
+          "completed": false,
+          "description": "",
+          "due_date": "2025-12-07",
+          "priority": "low",
+          "reminder": true
+        },
+        {
+          "id": "t05",
+          "title": "Organize project files",
+          "completed": false,
+          "description": "Sort by date and type",
+          "due_date": "2025-12-10",
+          "priority": "medium",
+          "reminder": false
+        }
+      ]
+    },
+    {
+      "tasks": [
+        {
+          "id": "t01",
+          "title": "Review final project proposal",
+          "completed": true,
+          "description": "Check formatting + client feedback",
+          "due_date": "2025-12-11",
+          "priority": "high",
+          "reminder": false
+        },
+        {
+          "id": "t02",
+          "title": "Send invoice to client",
+          "completed": true,
+          "description": "",
+          "due_date": "2025-12-07",
+          "priority": "medium",
+          "reminder": false
+        },
+        {
+          "id": "t03",
+          "title": "Prepare for team meeting",
+          "completed": false,
+          "description": "Slides already prepared",
+          "due_date": "2025-12-07",
+          "priority": "low",
+          "reminder": false
+        },
+        {
+          "id": "t26",
+          "title": "to do app",
+          "completed": false,
+          "description": "",
+          "due_date": "2025-12-08",
+          "priority": "medium",
+          "reminder": false
+        },
+        {
+          "id": "t79",
+          "title": "vdfvds",
+          "completed": false,
+          "description": "",
+          "due_date": "2025-12-17",
+          "priority": "medium",
+          "reminder": false
+        },
+        {
+          "id": "t32",
+          "title": "bfdbf",
+          "completed": false,
+          "description": "",
+          "due_date": "2025-12-19",
+          "priority": "medium",
+          "reminder": false
+        },
+        {
+          "id": "t64",
+          "title": "bdfbdf",
+          "completed": false,
+          "description": "",
+          "due_date": "2025-12-19",
+          "priority": "medium",
+          "reminder": false
+        },
+        {
+          "id": "t86",
+          "title": "dfbdf",
+          "completed": false,
+          "description": "",
+          "due_date": "2025-12-19",
+          "priority": "medium",
+          "reminder": false
+        },
+        {
+          "id": "t78",
+          "title": "fbfd",
+          "completed": false,
+          "description": "",
+          "due_date": "2025-12-19",
+          "priority": "medium",
+          "reminder": false
+        }
+      ],
+      "id": "129b"
+    }
+  ]
+}
